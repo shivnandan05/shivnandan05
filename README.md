@@ -58,8 +58,6 @@
 # 🏆 AWS Certification
 
 <p align="center">
-
-```markdown
 # 🏆 AWS Certification
 
 <p align="center">
