@@ -1,8 +1,4 @@
 ![image alt ](https://github.com/shivnandan05/shivnandan05/blob/2b47ef419d6fbc7476126072d1b09afe23897c3f/Jul%2027%2C%202026%2C%2010_16_19%20PM.png)
-<p align="center">
-  <img src="./banner.png" alt="Shivanandkumar Naik Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Shivanandkumar Naik</h1>
 
 <h3 align="center">
@@ -63,13 +59,22 @@
 
 <p align="center">
 
-🥇 **AWS Certified Cloud Practitioner (CLF-C02)**
+```markdown
+# 🏆 AWS Certification
+
+<p align="center">
+
+<a href="YOUR_CREDLY_BADGE_URL" target="_blank">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner%20(CLF--C02)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner Badge"/>
+</a>
 
 </p>
 
-> 📌 *Credly badge coming soon.*
-
----
+<p align="center">
+<strong>AWS Certified Cloud Practitioner (CLF-C02)</strong><br>
+Validate my certification by clicking the badge above.
+</p>
+```
 
 # 🚀 Featured Projects
 
