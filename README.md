@@ -49,7 +49,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,github,linux,bash,java,python,react,nodejs,mongodb,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,,git,github,linux,bash,python,,vscode"/>
 
 </p>
 
