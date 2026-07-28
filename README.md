@@ -1,4 +1,4 @@
-![Profile Hero](https://raw.githubusercontent.com/shivnandan05/shivnandan05/main/Jul%2027%2C%202026%2C%2010_16_19%20PM.png)
+![Profile Hero](C:\Users\eXpert\.sf\Downloads\ChatGPT Image Jul 28, 2026, 10_55_43 AM.png)
 
 # Hi 👋, I'm Shivanandkumar Naik
 Aspiring DevOps & Cloud Engineer • AWS Certified Cloud Practitioner (CLF‑C02)
