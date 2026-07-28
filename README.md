@@ -1,5 +1,6 @@
-![Profile Hero](<img width="1983" height="793" alt="ChatGPT Image Jul 28, 2026, 10_55_43 AM" src="https://github.com/user-attachments/assets/e20949d4-b0f9-4cf1-8859-4aea5ab59f85" />
-)
+<p align="center">
+  <img src="Jul 27, 2026, 10_16_19 PM.png" alt="Profile Hero" width="100%" />
+</p>
 
 # Hi 👋, I'm Shivanandkumar Naik
 Aspiring DevOps & Cloud Engineer • AWS Certified Cloud Practitioner (CLF‑C02)
