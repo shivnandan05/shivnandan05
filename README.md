@@ -55,24 +55,21 @@
 
 ---
 
-# 🏆 AWS Certification
+## 🏆 AWS Certification
 
 <p align="center">
-# 🏆 AWS Certification
-
-<p align="center">
-
-<a href="YOUR_CREDLY_BADGE_URL" target="_blank">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner%20(CLF--C02)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner Badge"/>
-</a>
-
+  <a href="https://www.credly.com/badges/88a1394e-e33a-48be-a87e-5cb08047267a/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner%20(CLF--C02)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner">
+  </a>
 </p>
 
 <p align="center">
-<strong>AWS Certified Cloud Practitioner (CLF-C02)</strong><br>
-Validate my certification by clicking the badge above.
+  <b>AWS Certified Cloud Practitioner (CLF-C02)</b><br>
+  Issued by Amazon Web Services (AWS)<br>
+  <a href="https://www.credly.com/badges/88a1394e-e33a-48be-a87e-5cb08047267a/public_url">
+    🔗 Verify Credential
+  </a>
 </p>
-```
 
 # 🚀 Featured Projects
 
